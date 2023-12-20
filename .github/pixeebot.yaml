@@ -1,3 +1,4 @@
 assignees: [whodes]
 ai:
   allow_llm_access: true
+build_checks_enabled: true
