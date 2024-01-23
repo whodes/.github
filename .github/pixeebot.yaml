@@ -2,3 +2,4 @@ assignees: [whodes]
 ai:
   allow_llm_access: true
 build_checks_enabled: true
+issues_dashboard_enabled: true
